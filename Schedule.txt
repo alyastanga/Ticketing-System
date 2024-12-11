@@ -1,0 +1,18 @@
+mayer
+Monday: 7:30am - 1:30pm
+Tuesday: 9:00am - 4:00pm
+Wednesday: 9:30am - 2:00pm
+Thursday: 7:30am - 3:00pm
+Friday: 8:00am - 12:00pm
+Saturday: 12:00pm - 4:00pm
+Sunday: -----------------
+
+luke
+Monday: 1pm
+Tuesday: 2pm
+Wednesday: 3pm
+Thursday: 4pm
+Friday: 5pm
+Saturday: 6pm
+Sunday: ----------
+

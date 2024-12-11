@@ -1,0 +1,41 @@
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 214
+Concern: Grades and Assessments
+Additional Details: I have concern about my grades
+Date of Inquiry: 2024-12-10 23:18:52
+Scheduled Meeting: Monday:  7:30am - 1:30pm
+Professor: mayer
+Status: resolved
+Read Status: new
+Student Rating: 0/5 ()
+Date Resolved: 2024-12-10 23:50:24
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 403
+Concern: Course Material and Content
+Additional Details: lorem ipsum lorem ipsum
+Date of Inquiry: 2024-12-10 23:46:24
+Scheduled Meeting: Thursday:  7:30am - 3:00pm
+Professor: mayer
+Status: resolved
+Read Status: new
+Student Rating: 5/5 (Excellent)
+Date Resolved: 2024-12-10 23:50:46
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 538
+Concern: General Inquiries
+Additional Details: nothing
+Date of Inquiry: 2024-12-11 10:00:40
+Scheduled Meeting: Friday:  8:00am - 12:00pm
+Professor: mayer
+Status: open
+Read Status: new
+Date Resolved: Pending
+----------------------------------------

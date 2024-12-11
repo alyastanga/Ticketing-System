@@ -1,0 +1,3 @@
+john      john       CCS         s    123456
+mayer     mayer       CCS         p         0
+luke      luke       CCS         p         0

@@ -1,0 +1,80 @@
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 730
+Concern: Course Material and Content
+Additional Details: asdasdsadsa
+Date of Inquiry: 2024-12-11 00:49:56
+Scheduled Meeting: Tuesday:  2pm
+Professor: luke
+Status: resolved
+Read Status: read
+Student Rating: 5/5 (Excellent)
+Date Resolved: 2024-12-11 00:50:50
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 214
+Concern: Grades and Assessments
+Additional Details: dasdas
+Date of Inquiry: 2024-12-11 00:57:57
+Scheduled Meeting: Tuesday:  2pm
+Professor: luke
+Status: open
+Read Status: read
+Date Resolved: Pending
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 423
+Concern: Exam Schedules and Conflicts
+Additional Details: adasd
+Date of Inquiry: 2024-12-11 00:58:11
+Scheduled Meeting: Wednesday:  3pm
+Professor: luke
+Status: resolved
+Read Status: read
+Student Rating: 4/5 (Very Good)
+Date Resolved: 2024-12-11 00:59:04
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 28
+Concern: Grades and Assessments
+Additional Details: dasd
+Date of Inquiry: 2024-12-11 01:41:01
+Scheduled Meeting: Wednesday:  3pm
+Professor: luke
+Status: open
+Read Status: new
+Date Resolved: Pending
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 334
+Concern: Grades and Assessments
+Additional Details: sdadsadsa
+Date of Inquiry: 2024-12-11 03:22:08
+Scheduled Meeting: Sunday:  ----------
+Professor: luke
+Status: open
+Read Status: new
+Date Resolved: Pending
+----------------------------------------
+College: CCS
+Student: john
+Student ID: 123456
+Ticket ID: 582
+Concern: Grades and Assessments
+Additional Details: dasdsa
+Date of Inquiry: 2024-12-11 09:59:40
+Scheduled Meeting: Thursday:  4pm
+Professor: luke
+Status: open
+Read Status: new
+Date Resolved: Pending
+----------------------------------------
